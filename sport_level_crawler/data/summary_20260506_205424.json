@@ -1,0 +1,24 @@
+[
+  {
+    "cert_no": "CFA201900050",
+    "name": "胡睿宝",
+    "query_time": "2026-05-06 20:54:24",
+    "success": true,
+    "data": {
+      "certificateNo": "CFA201900050",
+      "athleteRealName": "胡睿宝",
+      "rankTitle": "运动健将",
+      "subItemName": "足球",
+      "smallItemName": "男子足球",
+      "grantUnitName": "中国足球协会",
+      "grantTime": "2019-02-27",
+      "eventGrade": "第二名",
+      "eventName": "2018中国足球协会超级联赛",
+      "eventPlace": "全国",
+      "eventTime": "2018-03-02-2018-11-11",
+      "orderBookUrl": "https://zqdj.univsport.com//file_auth_data.php?file_data=OVO81/Vp9c4JvT/BCD8Y8VdyYik1HS3EzrdmD5AZCA89HjhyNWATuD8/XweF/b4Lti1ZP/G1mzvXwo_24hw4zpK/KJgRZ2D_NsQMv7LnXv_U6dnnkqlJN9pw0WkyNtAuIE2eR0A9EMfIXwROPKp2r47rv9m2GJDCLz1B3dQ/clv/8j6cIpzuTGV7LrCJBTsP",
+      "scoreBookUrl": "https://zqdj.univsport.com//file_auth_data.php?file_data=OVO81/Vp9c4JvT/BCD8Y8VdyYik1HS3EzrdmD5AZCA89HjhyNWATuD8/XweF/b4Lti1ZP/G1mzvXwo_24hw4zpK/KJgRZ2D_NsQMv7LnXv_U6dnnkqlJN9pw0WkyNtAuIE2eR0A9EMfIXwROPKp2r47rv9m2GJDCLz1B3dQ/cluivf_KJEYHneva5AyBQc1b"
+    },
+    "error": null
+  }
+]
