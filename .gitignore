@@ -1,0 +1,27 @@
+# ---------- 不提交：爬虫与本地大数据 ----------
+notice_attachment_crawler/
+sport_level_crawler/
+
+# ---------- 运行时 / 会话 / 调试 ----------
+.kimi_chrome_profile/
+kimi_debug/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# ---------- 抽取产物（本地生成，体积大）----------
+temp_jsons/
+Submit_athletes/
+final_athletes.csv
+
+# ---------- Kimi 批处理状态 ----------
+kimi_extract_failed_ids.txt
+kimi_agent_failures.txt
+
+# ---------- 系统与 IDE ----------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
